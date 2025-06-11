@@ -15,12 +15,13 @@ The results can be filtered by cost, bedrooms, bathroom numbers, and square feet
 We scrape data from Redfin.com via ZIP code searches. Listings from multiple pages are parsed for address, price, number of bedrooms/baths, and square feet.
 
 ## Files Included
-| File Name | Description |
-|-----------|-------------|
-| real_estate_interactive1.ipynb | Main interactive notebook to run the project |
-| scraper.py | Core scraper and filter functions |
-| INFO153-PROJECT-G3.ipynb | Seth Coward’s original version |
-| INFO153-PROJECT-G3_v2.ipynb | Andrew Stevens’ updated version |
+| File Name                      | Description                                           |
+|-------------------------------|-------------------------------------------------------|
+| real_estate_interactive1.ipynb | Final interactive notebook created by Zhixi Lin       |
+| scraper.py                    | Modular scraper and filter functions by Zhixi Lin     |
+| INFO153-PROJECT-G3.ipynb      | Seth Coward’s original version                        |
+| INFO153-PROJECT-G3_v2.ipynb   | Andrew Stevens’ updated version                       |
+
 
 ## How to Use
 1. Open `real_estate_interactive1.ipynb` in Jupyter Notebook.
