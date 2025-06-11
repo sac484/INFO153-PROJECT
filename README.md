@@ -5,6 +5,7 @@
 - Seth Coward (sac484)  
 - Maryam Nasralla (mn688)  
 - Andrew Stevens (aes464)
+- Jason Chew (jc4768)
 
 ## Project Overview
 This project facilitates users to search for real estate properties in any U.S. ZIP code by pulling live data from Redfin. The intention here is to make real estate information simpler to query, filter, and bookmark — particularly because Redfin does not offer an open API.
